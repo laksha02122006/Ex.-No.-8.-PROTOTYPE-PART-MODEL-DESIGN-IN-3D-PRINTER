@@ -44,12 +44,8 @@
 ###   5.	Wait until the nozzle & bed plate comes into the required temperature.
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
-## Input :
-![input](https://github.com/user-attachments/assets/2f398c8b-98d3-4a0c-97b5-5787da3871d4)
-
 ## Output:
-![output](https://github.com/user-attachments/assets/47bd9ca5-1f8f-42bb-b46d-b99510eb6c4a)
-
+![input](https://github.com/user-attachments/assets/2f398c8b-98d3-4a0c-97b5-5787da3871d4)
 
 ### Name: V.B.LAKSHA
 ### Register Number: 212224220051
